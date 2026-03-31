@@ -25,5 +25,8 @@ Data analyst in psychiatric epidemiology with a focus on longitudinal data and c
 - Socioeconomic inequality and mortality (Cox regression)
 
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: (optional)
+- Email: jasminabuaishah@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jasmindoenicke/
+- ORCID: https://orcid.org/0009-0006-0721-0790
+- OSF: https://osf.io/zr8vc/
+
