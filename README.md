@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jasmin
 
-<!--
-**JasminDoe/jasmindoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst in psychiatric epidemiology with a focus on longitudinal data and causal inference methods.
 
-Here are some ideas to get you started:
+## Research Interests
+- Health Inequality
+- Mental Health
+- Child and Adolescent psychiatric epidemiology
+- Life course and intergenerational health
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Methods
+- Longitudinal data analysis
+- Survival analysis (Cox models)
+- Regression modelling
+- Prediction modelling
+- Causal inference (target trial emulation, DAGs)
+
+## Tools
+- R (tidyverse, survival)
+- Mplus
+- Tableau
+
+## Selected Projects
+- Mania trajectories in youth (ABCD study)
+- Socioeconomic inequality and mortality (Cox regression)
+
+## Contact
+- Email: your.email@example.com
+- LinkedIn: (optional)
