@@ -20,10 +20,6 @@ Data analyst in psychiatric epidemiology with a focus on longitudinal data and c
 - Mplus
 - Tableau
 
-## Selected Projects
-- Mania trajectories in youth (ABCD study)
-- Socioeconomic inequality and mortality (Cox regression)
-
 ## Contact
 - Email: jasminabuaishah@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jasmindoenicke/
